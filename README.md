@@ -11,6 +11,14 @@ This is a collection of simple text mods for Diablo II
   - Enables mana potions to be sold by vendors
   - Supports 1.00, 1.05b, 1.07, 1.08, 1.09b, 1.13c
 
+- Town Cast
+  - Enable additional spells to be cast in town
+    - Teleport, Thunderstorm, Armageddon, Hurricane
+    - Charge, Leap, Shout, Battle Orders, Battle Command
+  - Allow some spells to be cast in Werewolf and Werebear
+    - Teleport, Shout, Battle Orders, Battle Command
+  - Supports 1.13c
+
 ### Installation
 
 1. Copy the data folder for any mods you would you would like to use into your
