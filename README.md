@@ -1,22 +1,33 @@
-# Diablo II Text Mods
+## Diablo II Text Mods
 
 This is a collection of simple text mods for Diablo II
 
 ### Included Mods
 
 - Stack Size
+
   - Key stack size increased from 12 to 50
+
   - Tome stack size increased from 20 to 80
+
   - Arrow and bolt stack size increased to 500
+
   - Enables mana potions to be sold by vendors
+
   - Supports 1.00, 1.05b, 1.07, 1.08, 1.09b, 1.13c
 
 - Town Cast
+
   - Enable additional spells to be cast in town
+
     - Teleport, Thunderstorm, Armageddon, Hurricane
+
     - Charge, Leap, Shout, Battle Orders, Battle Command
+
   - Allow some spells to be cast in Werewolf and Werebear
+
     - Teleport, Shout, Battle Orders, Battle Command
+
   - Supports 1.13c
 
 ### Installation
@@ -28,7 +39,7 @@ This is a collection of simple text mods for Diablo II
    Note: Some mods may work with versions not officially supported. This is
    more likely if they are similar patches. For example, 1.09b and 1.09d, or
    1.13c and 1.13d. However, mods have only been tested and confirmed to work
-   with the officially supported versions.
+   with the supported versions.
 
 2. Add `-direct -txt` to the shortcut you use to launch the game. You can do
    that by right clicking on the shortcut, selecting `Properties`, typing
