@@ -30,6 +30,14 @@ This is a collection of simple text mods for Diablo II
 
   - Supports 1.13c
 
+- Quest Bug
+
+  - Always get quest drops from Andariel
+
+  - Even if you forget to talk to Warriv
+
+  - Supports 1.13c
+
 ### Installation
 
 1. Backup your characters and the game folder before making any changes.
