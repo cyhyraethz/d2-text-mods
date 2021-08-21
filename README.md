@@ -54,6 +54,12 @@ This is a collection of simple text mods for Diablo II
 
 5. If you are adding new mods to an existing data folder, delete the .bin files in `Diablo II\data\global\excel` before launching the game so that new ones can be generated from the text files.
 
-### Notes
+### Additional Notes
 
-Some mods may work with versions that are not listed as being supported. This is most likely with versions that are very similar (e.g. 1.09b and 1.09d, or 1.13c and 1.13d). However, only supported versions have been tested.
+Some mods may work with versions that are not listed as being supported. This is most likely with versions that are very similar (e.g. 1.09b and 1.09d, 1.13c and 1.13d). However, only supported versions have actually been tested.
+
+If your cursor is on top of an NPC when casting Teleport in town it will register as you clicking on them and your character will move toward them normally. You can get around this by holding down the Show Items hotkey to prevent your character from targeting the NPC, allowing you to Teleport right next to them.
+
+Hurricane and Armageddon can be precast in town but will not display their animations until you leave town.
+
+Shout, Battle Orders, and Battle Command only affect the caster, not party members, when used in town.
