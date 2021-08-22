@@ -38,6 +38,16 @@ This is a collection of simple text mods for Diablo II
 
   - Supports 1.13c
 
+- Unsocket
+
+  - New cube recipe for unsocketing
+
+  - Town Portal Scroll + Socketed Item
+
+  - Does not destroy the item or the gems
+
+  - Supports 1.13c
+
 ### Installation
 
 1. Backup your characters and the game folder before making any changes.
