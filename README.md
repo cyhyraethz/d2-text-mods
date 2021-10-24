@@ -28,7 +28,7 @@ This is a collection of simple text mods for Diablo II
 
     - Teleport, Shout, Battle Orders, Battle Command
 
-  - Supports 1.13c
+  - Supports 1.00, 1.07, 1.13c
 
 - Quest Bug
 
